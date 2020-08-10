@@ -1,7 +1,7 @@
-## Generating a Random Response
+# Generating a Random Response
 A random response generator works for anything from a Magic 8 ball command to a coin toss command, to a random image, joke, phrase, or even paper/scissors/rock command. The bot will generate a random number and select a response based on the number chosen.
 
-### Using Hardcoded Responses
+## Using Hardcoded Responses
 **Action 1: Generate a random number** this will allow the bot to select one of your pre-programmed responses.
 
 ![](https://raw.githubusercontent.com/Silversunset01/dbm/master/screenshots/randtext.png)

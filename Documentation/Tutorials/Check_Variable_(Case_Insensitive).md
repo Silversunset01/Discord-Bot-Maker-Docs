@@ -1,4 +1,4 @@
-## Check variable (CaSe InSeNsItIvE)
+# Check variable (CaSe InSeNsItIvE)
 When you use the `Check Variable` action DBM requires that it be an EXACT match, including case. That means
 ```TeXt LiKe ThIs```
 is not the same as
@@ -19,4 +19,4 @@ The way to combat this is to convert your variable to the same case (either all 
     - Comparison Type: equals  
     - Value to compare to: "your text in all lower case with quotes around it"  
     - If True: continue  
-    - iF False: end or skip, depending on your command  
+    - iF False: end or skip, depending on your command 

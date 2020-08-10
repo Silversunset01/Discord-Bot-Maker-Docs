@@ -1,4 +1,4 @@
-## Adding a role on-join
+# Adding a role on-join
 Adding a role to users who join your server is quite simple.
 
 1. **Create an event that is triggered ON MEMBER JOIN**

@@ -1,4 +1,4 @@
-## Store Command Parameters
+# Store Command Parameters
 
 You can store parameters entered into a command using the "Store command parameters" action. This will assume your parameters are using the default `space` \(`\s+`\) as a separator.
 
