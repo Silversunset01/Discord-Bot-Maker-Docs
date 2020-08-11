@@ -1,7 +1,7 @@
 # Working with Time
 [Basic Timestamps](#basic-timestamps) | [Getting the Current UTC Time](#getting-the-current-utc-time) | [Formatting the Current UTC Time](#formatting-the-current-utc-time) | [Using .toLocaleString()](#using-tolocalestring) | [Finding the time between actions](#finding-the-time-between-actions)  
 
-**Time is an illusion. Lunchtime doubly so. **
+**Time is an illusion. Lunchtime doubly so.**
 Trying to code things with time in javascript will most likely set your hair on fire. Please proceed with caution.
 
 First, go [to this site](https://www.w3schools.com/jsref/jsref_obj_date.asp), bookmark it, and make it your new best friend. This will give you all the bits and pieces of time you could ever want.
