@@ -1,7 +1,7 @@
 # API Abuse
-[Kick/Ban/DM all users](#why-wont-anyone-help-me-make-a-kick-ban-dm-all-command)  
-[Rainbow Roles](#can-i-make-rainbow-roles)  
-[Changing Bot Status](#why-wont-my-bot-status-change)
+[Kick/Ban/DM all users](#why-wont-anyone-help-me-make-a-kick-ban-dm-all-command-)  
+[Rainbow Roles](#can-i-make-rainbow-roles-)  
+[Changing Bot Status](#why-wont-my-bot-status-change-)
 
 ## Why won't anyone help me make a kick/ban/dm all command?
 Inviting your bot to a server and then using it to kick, ban, or DM all users is an abuse of your bot and violates the Discord TOS.  see below for more info. 
