@@ -1,5 +1,5 @@
 # Working with Time
-[Basic Timestamps](#basic-timestamps) | [Getting the Current UTC Time](#getting-the-current-utc-time) | #Formatting the Current UTC Time](#formatting-the-current-utc-time) | [Using .toLocaleString()](#using-tolocalestring) | [Finding the time between actions](#finding-the-time-between-actions)  
+[Basic Timestamps](#basic-timestamps) | [Getting the Current UTC Time](#getting-the-current-utc-time) | [Formatting the Current UTC Time](#formatting-the-current-utc-time) | [Using .toLocaleString()](#using-tolocalestring) | [Finding the time between actions](#finding-the-time-between-actions)  
 
 **Time is an illusion. Lunchtime doubly so. **
 Trying to code things with time in javascript will most likely set your hair on fire. Please proceed with caution.
