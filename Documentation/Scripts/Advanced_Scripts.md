@@ -1,8 +1,8 @@
 # Advanced Scripts
-[Select item from list (no dups)](#select-items-from-list-no-dups)  
-[Select items from List (dups)](#select-items-from-list-dups)  
-[List All Bot Command Names](#list-all-of-the-bot-commands-names)  
-[List All Event Names](#list-all-of-the-bot-events-names)  
+[Select item from list (no dups)](#select-items-from-list-no-dups-)  
+[Select items from List (dups)](#select-items-from-list-dups-)  
+[List All Bot Command Names](#list-all-of-the-bot-commands-names-)  
+[List All Event Names](#list-all-of-the-bot-events-names-)  
 [Display a missing variable with alt text](#display-a-missing-variable-with-alt-text)  
 
 ## Select items from List (no dups)
