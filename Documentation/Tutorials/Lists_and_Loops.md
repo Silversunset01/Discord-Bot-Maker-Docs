@@ -1,4 +1,6 @@
 # Lists & Loops
+[Lists](#lists) | [Loops](#loops) | [How to Loop in DBM](#how-to-use-a-loop-in-dbm) | [Synchronous or Asynchronous](#synchronous-or-asynchronous)
+
 ## Lists
 A list in DBM is nothing more than what JavaScript calls [an array](https://www.w3schools.com/js/js_arrays.asp), which is a special type of item that can be used to store multiple values within a single variable.
 

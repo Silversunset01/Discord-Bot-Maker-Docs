@@ -1,4 +1,6 @@
 # How to create a SAY command
+[In Another Channel](#in-another-channel) | [In the Same Channel](#in-the-same-channel)
+
 If you'd like to be able to type a message and speak as the bot it's quite simple. 
 
 ## In another channel 

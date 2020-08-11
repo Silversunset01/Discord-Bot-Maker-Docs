@@ -1,4 +1,6 @@
 # How to create an Info/Help command
+[DBM Only - No Script](#dbm-only) | [With Javascript - Switch/Case](#with-javascript-switch-case) | [With Javascript - JSON](#with-javascript-json)
+
 ## DBM Only
 This method of an Info/Help command uses ONLY DBM actions, but it can be tricky to update as your info changes.  
 For this example we will be using an EMBED message with the following parameters:  

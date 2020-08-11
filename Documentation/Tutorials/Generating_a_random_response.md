@@ -1,4 +1,6 @@
 # Generating a Random Response
+[Using a Hardcoded Reponse](#using-a-hardcoded-response) | [Using an Updatable List](#using-an-updatable-list)
+
 A random response generator works for anything from a Magic 8 ball command to a coin toss command, to a random image, joke, phrase, or even paper/scissors/rock command. The bot will generate a random number and select a response based on the number chosen.
 
 ## Using Hardcoded Responses
